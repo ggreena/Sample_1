@@ -1,2 +1,2 @@
-# Sample_1
+# Sample 1 Project
  first sample
